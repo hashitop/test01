@@ -1,4 +1,4 @@
-service ssh status
+service sshs status
 if [ "$?" -eq 0 ]; then 
     exit 0 
 else
